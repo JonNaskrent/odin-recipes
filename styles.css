@@ -1,0 +1,20 @@
+#description {
+    color: red;
+    font-family: sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#ingredients {
+    color: blue;
+    font-family: sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#steps {
+    color: midnightblue;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
